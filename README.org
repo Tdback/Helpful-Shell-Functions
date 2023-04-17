@@ -1,0 +1,3 @@
+#+TITLE:Fish functions
+
+A collection of helpful functions for the fish shell.
