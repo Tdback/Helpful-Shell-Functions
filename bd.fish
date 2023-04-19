@@ -1,5 +1,5 @@
 # Directory traversal to replace `cd -`
 
-function bd
+function bd -d 'Traverse to previous directory'
   cd $dirprev[-1]
 end
